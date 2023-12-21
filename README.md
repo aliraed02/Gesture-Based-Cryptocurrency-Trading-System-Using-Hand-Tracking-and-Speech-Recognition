@@ -30,7 +30,3 @@ Ensure you have the following dependencies installed before running the "Gesture
 - **pyttsx3**: Text-to-speech conversion library in Python.
 - **requests**: A library for making HTTP requests in Python.
 
-You can install these dependencies using the following command:
-
-```bash
-pip install -r requirements.txt
